@@ -1,0 +1,2 @@
+pyswisseph>=2.10.3
+anthropic>=0.40.0
