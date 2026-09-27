@@ -1,0 +1,12 @@
+.venv/
+.venv311/
+.deps/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+*.pyc
+/data/
+.env
+test-results/
+.test-temp*/
+node_modules/
