@@ -1,0 +1,7 @@
+{
+  "name": "wealth-command-center-web",
+  "private": true,
+  "type": "module",
+  "scripts": {"test:browser": "node tests/e2e.cjs"},
+  "devDependencies": {"playwright": "1.62.1"}
+}
