@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "wealth-command-center"
+version = "0.1.0"
+description = "Multilingual, evidence-grounded personal symbolic-computation workspace"
+requires-python = ">=3.11"
+dynamic = ["dependencies"]
+
+[project.optional-dependencies]
+mcp = ["mcp>=1.20,<2"]
+
+[tool.setuptools.dynamic]
+dependencies = {file = ["requirements.txt"]}
+
+[tool.setuptools.packages.find]
+include = ["wealth_command_center*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 110
+exclude = ["vendor", ".venv", ".deps"]
+
+[tool.ruff.lint]
+select = ["E4", "E7", "E9", "F"]
+
