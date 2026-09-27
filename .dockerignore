@@ -1,0 +1,9 @@
+.venv*
+.test-temp*
+.git
+data
+tests
+test-results
+__pycache__
+**/__pycache__
+.env
