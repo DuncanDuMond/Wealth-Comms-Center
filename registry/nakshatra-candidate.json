@@ -1,0 +1,41 @@
+{
+  "id": "conversation-stellar-extent-candidate-v1",
+  "schema_version": "1.0",
+  "review_status": "unverified",
+  "frame": null,
+  "source": {
+    "type": "unverified-conversation-transcription",
+    "conversation_id": "6ab2c51a-8c10-83e9-a743-f6259f7002b8",
+    "title": "Improve Wealth Algorithm UX DX AX",
+    "note": "Candidate groups only. Names are not canonical catalog identifiers. No degree boundaries, membership completeness, custom zero or epoch has been verified."
+  },
+  "groups": [
+    {"name":"Ashvini","candidate_members":["gamma Ari","beta Ari","alpha Ari"],"membership_status":"unverified"},
+    {"name":"Bharani","candidate_members":["35 Ari","41 Ari","39 Ari"],"membership_status":"unverified"},
+    {"name":"Krittika","candidate_members":["M45"],"membership_status":"unresolved","note":"Cluster membership/extent rule is unresolved; M45 is not a single boundary star."},
+    {"name":"Rohini","candidate_members":["gamma Tau","theta2 Tau","epsilon Tau","delta1 Tau","theta1 Tau","Aldebaran"],"membership_status":"unverified"},
+    {"name":"Mrigashira","candidate_members":["phi2 Ori","lambda Ori","phi1 Ori"],"membership_status":"unverified"},
+    {"name":"Ardra","candidate_members":["gamma Gem"],"membership_status":"unverified"},
+    {"name":"Punarvasu","candidate_members":["Castor","Pollux"],"membership_status":"unverified"},
+    {"name":"Pushya","candidate_members":["gamma Cnc","theta Cnc","delta Cnc"],"membership_status":"unverified"},
+    {"name":"Ashlesha","candidate_members":[],"membership_status":"unresolved","note":"Hydra group members unspecified."},
+    {"name":"Magha","candidate_members":[],"membership_status":"unresolved","note":"Leo group members unspecified."},
+    {"name":"Purva Phalguni","candidate_members":["Zosma","Chertan"],"membership_status":"unverified"},
+    {"name":"Uttara Phalguni","candidate_members":["Denebola","nu Vir","beta Vir","omicron Vir"],"membership_status":"unverified"},
+    {"name":"Hasta","candidate_members":["gamma Crv","alpha Crv","delta Crv","epsilon Crv","beta Crv"],"membership_status":"unverified"},
+    {"name":"Chitra","candidate_members":["Spica"],"membership_status":"unverified"},
+    {"name":"Swati","candidate_members":["Arcturus","eta Boo","zeta Boo"],"membership_status":"unverified"},
+    {"name":"Vishakha","candidate_members":["alpha Lib","beta Lib","gamma Lib","iota Lib"],"membership_status":"unverified"},
+    {"name":"Anuradha","candidate_members":["delta Sco","beta Sco","pi Sco","rho Sco"],"membership_status":"unverified"},
+    {"name":"Jyeshtha","candidate_members":["alpha Sco","sigma Sco","tau Sco"],"membership_status":"unverified"},
+    {"name":"Mula","candidate_members":["epsilon Sco","zeta Sco","eta Sco","theta Sco","kappa Sco","lambda Sco","mu Sco","iota Sco"],"membership_status":"unverified"},
+    {"name":"Purva Ashadha","candidate_members":["gamma Sgr","delta Sgr","epsilon Sgr"],"membership_status":"unverified"},
+    {"name":"Uttara Ashadha","candidate_members":["sigma Sgr","zeta Sgr"],"membership_status":"unverified"},
+    {"name":"Shravana","candidate_members":["alpha Aql","beta Aql","gamma Aql"],"membership_status":"unverified"},
+    {"name":"Dhanishta","candidate_members":["beta Del","alpha Del","gamma Del","delta Del"],"membership_status":"unverified"},
+    {"name":"Shatabhisha","candidate_members":["lambda Aqr"],"membership_status":"unverified"},
+    {"name":"Purva Bhadrapada","candidate_members":["alpha Peg","beta Peg"],"membership_status":"unverified"},
+    {"name":"Uttara Bhadrapada","candidate_members":["gamma Peg","alpha And"],"membership_status":"unverified"},
+    {"name":"Revati","candidate_members":["zeta Psc"],"membership_status":"unverified"}
+  ]
+}
